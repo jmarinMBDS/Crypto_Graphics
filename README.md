@@ -21,12 +21,12 @@ You can find a [PyPI package](https://pypi.org/project/Crypto_Graphics/) availab
         git clone https://github.com/jmarinMBDS/Crypto_Graphics.git
 2) Recreate virtual environment installing all requirements via pip: 
    
-        pip install -r requirements.txt
+        pip install -r Crypto_Graphics\requirements.txt
 
 Launch Application
 ------------
 
 You can launch the application with the command:
 	
-    streamlit run Crypto_dashboard.py
+    streamlit run Crypto_dashboard.py 
 

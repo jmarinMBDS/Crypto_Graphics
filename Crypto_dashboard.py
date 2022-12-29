@@ -21,7 +21,7 @@ if __name__ == '__main__':
     * **EMA10/20/30**: Exponential moving average of the last 10/20/30 days, hours or weeks
                   
     For daily data, the **RSI** indicator is also calculated''')
-    image = Image.open("dashboard_image.jpg")
+    image = Image.open("Crypto_Graphics\dashboard_image.jpg")
     st.image(image, use_column_width=True)
 
     st.sidebar.header('User Input')
