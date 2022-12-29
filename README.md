@@ -21,7 +21,7 @@ You can find a [PyPI package](https://pypi.org/project/Crypto_Graphics/) availab
         git clone https://github.com/jmarinMBDS/Crypto_Graphics.git
 2) Recreate virtual environment installing all requirements via pip: 
    
-        pip install -r requirements
+        pip install -r requirements.txt
 
 Launch Application
 ------------
