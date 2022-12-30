@@ -28,5 +28,5 @@ Launch Application
 
 You can launch the application with the command:
 	
-    streamlit run Crypto_dashboard.py 
+    streamlit run Crypto_Graphics\Crypto_dashboard.py 
 
